@@ -1,0 +1,1 @@
+print("the cringiest moments sometimes are the most ridiculous and memorable ones")
