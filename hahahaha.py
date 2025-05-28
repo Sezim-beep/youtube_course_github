@@ -1,0 +1,1 @@
+print("Tu parli inglese? Perche non posso parlare l'italiano. Ma capisco italiano poco poco")
