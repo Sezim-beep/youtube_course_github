@@ -1,0 +1,1 @@
+print("Explaining a joke no one understood is, in fact, one of the most miserable things that a person can do ")
