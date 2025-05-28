@@ -1,1 +1,2 @@
 print("Explaining a joke no one understood is, in fact, one of the most miserable things that a person can do ")
+print("Jokes. In fact, the best cure in awkward moments and a good relaxation medicine in conversations. Not offensive ones, of course")
